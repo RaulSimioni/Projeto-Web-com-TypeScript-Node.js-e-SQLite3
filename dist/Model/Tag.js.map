@@ -1,0 +1,1 @@
+{"version":3,"file":"Tag.js","sourceRoot":"","sources":["../../src/Model/Tag.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,oBAAoB,CAAC;AAEnD,MAAM,OAAO,GAAI,SAAQ,aAAa;IAC3B,IAAI,CAAS;IAEpB,YAAY,IAAY;QACpB,KAAK,CAAC,MAAM,CAAC,CAAC;QACd,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;IACrB,CAAC;CACJ"}

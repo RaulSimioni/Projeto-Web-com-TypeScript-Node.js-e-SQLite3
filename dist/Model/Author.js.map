@@ -1,0 +1,1 @@
+{"version":3,"file":"Author.js","sourceRoot":"","sources":["../../src/Model/Author.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,oBAAoB,CAAC;AAEnD,MAAM,OAAO,MAAO,SAAQ,aAAa;IAC9B,IAAI,CAAS;IAEpB,YAAY,IAAY;QACpB,KAAK,CAAC,SAAS,CAAC,CAAC;QACjB,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;IACrB,CAAC;CACJ"}
